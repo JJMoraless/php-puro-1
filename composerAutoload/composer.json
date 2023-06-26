@@ -1,0 +1,15 @@
+{
+    "name": "jhonm/composer-autoload",
+    "autoload": {
+        "psr-4": {
+            "ComposerAutoload\\": "src/" 
+        }
+    },
+    "authors": [
+        {
+            "name": "JJMoraless",
+            "email": "jjmorales444@misena.edu.co"
+        }
+    ],
+    "require": {}
+}
